@@ -5,7 +5,7 @@
 
 
 # Create a vector `year` as the year column of the dataset
-
+year <-
 
 # Create a vector `name` as the name column of the datset
 
